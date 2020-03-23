@@ -8,6 +8,12 @@ Round 1:
 3,4
 4,5
 
-Round 6-HR Manager
-Why KLA tencor?
+# Expedia Coding Challenge
+1. Count palindromes within the range with two arrays
+2. Balanced Paranthesis
+3. Print frequency of each character
+
+# Coding Questions to practice
+Conditional Swaps
+
 
